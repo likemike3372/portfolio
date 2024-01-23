@@ -49,7 +49,7 @@ const about = {
   heading: "About Me",
   imageLink: require("../editable-stuff/mikhael.jpg"),
   imageSize: 375,
-  message:"I'm Mikhael Zacharias Thomas, a software developer with over two years of industry experience, currently enriching my skills as a graduate student at the University of Pennsylvania. Serving as a Tech Lead on a voice bot project, I am exploring innovative uses of AI. My goal is to integrate cutting-edge technology with practical applications, aiming to create tech solutions that have a meaningful impact on society."
+  message:"I'm Mikhael Zacharias Thomas, a software developer with over two years of industry experience, currently enriching my skills as a graduate student at the University of Pennsylvania. Serving as a Tech Lead on a voice bot project, I am exploring innovative uses of AI. My goal is to integrate cutting-edge technology with practical applications, aiming to create tech solutions that have a meaningful impact on society.",
   resume: "https://docs.google.com/document/d/1dHxeL5acFs3_4zRY5Qi9Yg-Wbkonk14azxX2cB43cfs/edit?usp=sharing",
 };
 
