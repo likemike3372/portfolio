@@ -49,9 +49,8 @@ const about = {
   heading: "About Me",
   imageLink: require("../editable-stuff/mikhael.jpg"),
   imageSize: 375,
-  message:
-    "My name is Mikhael Zacharias Thomas. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  message:"I'm Mikhael Zacharias Thomas, a software developer with over two years of industry experience, currently enriching my skills as a graduate student at the University of Pennsylvania. Serving as a Tech Lead on a voice bot project, I am exploring innovative uses of AI. My goal is to integrate cutting-edge technology with practical applications, aiming to create tech solutions that have a meaningful impact on society."
+  resume: "https://docs.google.com/document/d/1dHxeL5acFs3_4zRY5Qi9Yg-Wbkonk14azxX2cB43cfs/edit?usp=sharing",
 };
 
 // PROJECTS SECTION
